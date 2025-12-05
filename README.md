@@ -1,6 +1,6 @@
 # Customer Churn Prediction and AI-Powered Retention Email System
 
-**DEPT Case Assignment - Data Scientist/AI Engineer Role**  
+** Case Assignment - Data Scientist/AI Engineer Role**  
 *Vodafone Telecommunications Customer Retention Solution*
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
