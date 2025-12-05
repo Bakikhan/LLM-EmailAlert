@@ -1,4 +1,4 @@
-# Customer Churn Prediction and AI-Powered Retention Email System
+# Customer Churn Prediction and AI-Powered Retention Email Alert System
 
 *Vodafone Telecommunications Customer Retention Solution*
 
