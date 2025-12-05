@@ -121,7 +121,7 @@ The system can be deployed and executed through a straightforward setup process 
 
 **1. Clone Repository**
 ```bash
-git clone https://github.com/Bakikhan/DEPT
+git clone https://github.com/Bakikhan/LLM-EmailAlert
 ```
 
 **2. Install Dependencies**
